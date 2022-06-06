@@ -6,6 +6,7 @@
 - JavaScript
 - ReactJS
 - Python
+- Git
 
 ### 🔗 Links importantes:
 - <a href="https://www.linkedin.com/in/henrique-contini-83a149215/">Linkedin</a>
