@@ -5,7 +5,8 @@
 - CSS
 - JavaScript
 - ReactJS
-- Python
+- MySQL
+- NodeJS + Express
 - Git
 
 ### 🔗 Links importantes:
