@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">💻  Desenvolvedor web Full-stack.<br>🎓  Formado em Análise e Desenvolvimento de Sistemas.<br>📓 Atualmente estou focando meus estudos em back-end com Java e Spring Boot.<br>🔍 Possou, também, experiência em qualidade de software (QA).</p>
+- 💻 Desenvolvedor Back-end - Node.js, TypeScript e MongoDB.
+- ✏️ Pós-graduando em Engenharia de Software pela USP/Esalq.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas.
+- 📓 Atualmente estou focando meus estudos em back-end.
+- 🔍 Possou, também, experiência em qualidade de software (QA).</p>
 
 ###
 
